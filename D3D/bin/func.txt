@@ -1,0 +1,49 @@
+0xa88b60 settext
+
+0x0094d4f9 interact
+94A9B0
+94ac9a ;use skill
+
+
+0x4e0 ui state
+
+94D9A0 intract
+
+
+0x777C - left click
+
+
+
+
+
+
+00A4B0E0 map
+
+
+
+A4C920 lookup
+
+
+F157A0 map
+
+sub_A4FA30 bitmap
+
+
+check collis EDFBFF
+
+
+
+00edfc32 check path
+00fb4f72
+
+
+fb4de9 hook - from EDB39C
+
+
+fb68d9 check flag?
+
+
+f0a1ef check room
+
+
+
